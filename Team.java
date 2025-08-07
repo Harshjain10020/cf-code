@@ -28,6 +28,7 @@ public static void main(String[] args){
             ct=0;
         }
         System.out.println(res);
+        sc.close();
 
 
 }

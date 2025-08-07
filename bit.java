@@ -16,5 +16,6 @@ public class bit {
             }
         }
         System.out.println(x);
+        sc.close();
     }
 }
